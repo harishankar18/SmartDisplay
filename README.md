@@ -2,7 +2,6 @@
 A python framework for displaying news , images and videos on display board. Current framework allows to write plugins 
 for displaying content in specific format.
 
-Smart Display
 
 An application will be running on cloud instance, accepts Teams stats and News in the format of jpeg, png, ppt and mp4.
 The application will track yammer updates from the team-specific group, weather reports and traffic updates from google-maps.  
